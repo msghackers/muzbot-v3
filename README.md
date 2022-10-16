@@ -21,8 +21,6 @@
 <a href="https://github.com/thoriqazzikraa/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/thoriqazzikraa/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthoriqazzikraa%2Fwhatsapp-bot&count_bg=%23476FFF&title_bg=%23868080&icon=openbadges.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msghackers/Crizzy-Bot)
-
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoriqazzikraa&repo=whatsapp-bot&bg_color=20,e96443,904e89&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true" />
   </p>
@@ -67,6 +65,8 @@
 # Deploy On Heroku Tutorial
 
 - Pertama, Fork repo ini terlebih dahulu
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msghackers/muzbot-v3)
 
 
 - Lalu, Buat App di heroku
